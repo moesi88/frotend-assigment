@@ -1,0 +1,9 @@
+.highlighted_text {
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.highlighted_text span {
+    font-weight: normal;
+    color: gray;
+}

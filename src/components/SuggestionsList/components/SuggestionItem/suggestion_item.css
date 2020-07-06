@@ -1,0 +1,11 @@
+.suggestion_list_item {
+    display: flex;
+    align-items: center;
+    border: 1px solid lightgray;
+    padding: .5rem;
+}
+
+.suggestion_list_item span {
+    margin-left: .5rem;
+    color: gray;
+}
